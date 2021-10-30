@@ -1,4 +1,4 @@
-[Home](https://ankitanandtopno.github.io/FruitCake/Recipe.md)
+[Home](https://ankitanandtopno.github.io/FruitCake/)
 
 # Recipe
 
